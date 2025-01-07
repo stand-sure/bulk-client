@@ -1,0 +1,14 @@
+{
+  "name": "bulk-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@microsoft/kiota-authentication-azure": "1.0.0-preview.77",
+    "@microsoft/kiota-bundle": "1.0.0-preview.77"
+  }
+}
